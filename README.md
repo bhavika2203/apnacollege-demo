@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first Git Repository
 <br>
-Author- Bhavika Singh
+Author- Bhavika Singh(Apna College)
